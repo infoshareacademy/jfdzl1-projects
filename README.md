@@ -2,7 +2,7 @@
 
 ## Blue Brothers
 * Project website: [www](http://blue-brothers.jfdzl1.is-academy.pl), [repo](https://github.com/infoshareacademy/jfdzl1-blue-brothers-www)
-* Game: [www](http://blue-brothers.jfdzl1.is-academy.pl/game), [repo](https://github.com/infoshareacademy/jfdzl1-blue-grothers-game)
+* Game: [www](http://blue-brothers.jfdzl1.is-academy.pl/game), [repo](https://github.com/infoshareacademy/jfdzl1-blue-brothers-game)
 * Application: TBD
 
 ## Green Hornets
