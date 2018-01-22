@@ -1,6 +1,19 @@
 # JFDZL1 - Projects and repositories
 
 ## Blue Brothers
+| Projects | Team |
+| ----- | ---- |
+| * Project website: [demo](http://blue-brothers.jfdzl1.is-academy.pl), [repo](https://github.com/infoshareacademy/jfdzl1-blue-brothers-www)
+* Game: [demo](http://blue-brothers.jfdzl1.is-academy.pl/game), [repo](https://github.com/infoshareacademy/jfdzl1-blue-brothers-game)
+* Application: [demo](http://app.blue-brothers.jfdzl1.is-academy.pl), [repo](https://github.com/infoshareacademy/jfdzl1-blue-brothers-app) | * [Anita Baran](https://github.com/AnitaBarann)
+* [Łukasz Basaj](https://github.com/lukaszbasaj)
+* [Wojciech Paluch](https://github.com/wojciechpaluch)
+* [Piotr Psujek](https://github.com/ppiotrek)
+* [Bartłomiej Wrzesiński](https://github.com/BartlomiejWrz) |
+| test    | test |
+
+
+
 ### Projects
 * Project website: [demo](http://blue-brothers.jfdzl1.is-academy.pl), [repo](https://github.com/infoshareacademy/jfdzl1-blue-brothers-www)
 * Game: [demo](http://blue-brothers.jfdzl1.is-academy.pl/game), [repo](https://github.com/infoshareacademy/jfdzl1-blue-brothers-game)
