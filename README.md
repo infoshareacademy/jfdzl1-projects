@@ -1,4 +1,4 @@
-# JFDZL1 - Projects and repositories
+# JFDZL1 - People, projects and repositories
 
 ## Blue Brothers
 ### Projects
